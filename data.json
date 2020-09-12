@@ -1,0 +1,33 @@
+{
+	"urunler":[
+		{
+			"id":1,
+			"isim":"Zivzik Narı 5KG",
+			"fiyat": 7.0,
+			"kargo_tutar": 7.0,
+			"aciklama": "Lorem ipsum"
+		},
+		{
+			"id":2,
+			"isim":"Zivzik Narı 10KG",
+			"fiyat": 7.0,
+			"kargo_tutar": 7.0,
+			"aciklama": "Lorem ipsum"
+		},
+		{
+			"id":3,
+			"isim":"Zivzik Narı 15KG",
+			"fiyat": 7.0,
+			"kargo_tutar": 7.0,
+			"aciklama": "Lorem ipsum"
+		},
+		{
+			"id":4,
+			"isim":"Zivzik Narı 20KG",
+			"fiyat": 7.0,
+			"kargo_tutar": 7.0,
+			"aciklama": "Lorem ipsum"
+		}
+	],
+	"slider":[]
+}
